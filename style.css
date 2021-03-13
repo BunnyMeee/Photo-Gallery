@@ -1,0 +1,31 @@
+.bunnyR1{
+width: 100%;
+
+    
+}
+.bunnyR2{
+width: 100%;
+height: 175px;
+    
+}
+#R1G{
+width: 100%;
+    display: inline-block;
+
+    
+}
+#R2G{
+width: 100%;
+
+    
+}
+H1{
+    font-size:40px !important;
+    margin-bottom: 20px !important;
+}
+H2{
+    margin-bottom: 20px !important;
+}
+.Slides{
+    width: 50%;
+}
