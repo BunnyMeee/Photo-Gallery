@@ -16,6 +16,7 @@ width: 100%;
 }
 #R2G{
 width: 100%;
+    margin-top: 50px;
 
     
 }
@@ -28,4 +29,14 @@ H2{
 }
 .Slides{
     width: 50%;
+}
+#Slideshow{
+    margin-bottom: 50px;
+}
+#GridGallery{
+    width: 100%;
+    height: 65%;
+}
+body{
+    background-color: darkslategray;
 }
